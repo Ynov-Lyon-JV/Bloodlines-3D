@@ -7,8 +7,6 @@
 
 <a name="Commencer"/>
 
-test
-
 ## 1. Commencer avec Git
 ### 1.1 Qu'est ce que c'est ?
 
